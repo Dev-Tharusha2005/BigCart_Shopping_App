@@ -137,5 +137,4 @@ Sri Lanka 🇱🇰
 
 ## 📄 License
 
-This project is for **educational purposes**. You are free to use and modify it.
-an now also generate **project description, abstract, or final year documentation format** for BigCart 🔥
+This project is for **educational purposes**
